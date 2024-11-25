@@ -1,4 +1,4 @@
-[color=6600ff#] # Bienvenu dans le Projet_1 !!! [/color]
+# [color=6600ff#] Bienvenu dans le Projet_1 !!! [/color]
  
 Etudiante a la Wild code school, dans la promo de 09/2024, nous avion pour premier projet une analyse des donnees d'une société fictive Toys and Models.
 
