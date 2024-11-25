@@ -1,4 +1,4 @@
-# ![Badge Violet](Bienvenu dans le Projet_1 !!!)
+# Bienvenu dans le Projet_1 !!!
  
 Etudiante a la Wild code school, dans la promo de 09/2024, nous avion pour premier projet une analyse des donnees d'une société fictive Toys and Models.
 
@@ -11,5 +11,5 @@ SQL pour les traitements des données
 Power BI pour la visualisation
 
 ## Vous trouverez dans mon report : 
-Le code des requetes SQL sous fichier word
+Le code des requetes SQL sous fichier word  
 Le dashboard souhaité par le client en fichier power BI
