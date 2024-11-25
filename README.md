@@ -11,5 +11,5 @@ SQL pour les traitements des données
 Power BI pour la visualisation
 
 ## Vous trouverez dans mon report : 
-Le code des requetes SQL  
-Le fichier PBI final 
+Le code des requetes SQL sous fichier word
+Le dashboard souhaité par le client en fichier power BI
